@@ -1,4 +1,7 @@
-Robo Faucet Handle
+Maxwell's Demon
 ==================
 
-A faucet handle for use by an appropriately equipped roomba in order to adjust the water temperature
+A project for controlling the temperature of my shower.
+
+  http://linory.com/0MjE4Njg
+
